@@ -17,9 +17,4 @@ class MainActivity : AppCompatActivity() {
             insets
         }
     }
-
-
-    fun testName(){
-
-    }
 }
